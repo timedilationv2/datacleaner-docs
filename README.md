@@ -28,5 +28,6 @@ This project is crafted to showcase clarity, structure, and usability—ideal fo
 **Prerequisites:** Python 3.x
 
 Install via pip:
+
 ```bash
 pip install datacleaner
